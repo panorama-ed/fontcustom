@@ -1,3 +1,7 @@
+## 2.2.0 (02/8/2023)
+* Add check for call status to eotlite.py
+* Update python default call to eotlitetool.py to python3
+
 ## 2.1.0 (11/8/2022)
 * Minimum json version bumped to 2.6.2
 
