@@ -1,3 +1,6 @@
+## 2.3.0 (11/18/2024)
+* Update to support [Ruby 3.2 removals](https://rubyreferences.github.io/rubychanges/3.2.html#removals)
+
 ## 2.2.0 (02/8/2023)
 * Add check for call status to eotlite.py
 * Update python default call to eotlitetool.py to python3
